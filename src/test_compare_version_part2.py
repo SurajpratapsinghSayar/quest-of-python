@@ -1,6 +1,6 @@
 import unittest
 
-from who_broke_my_cicd_pipeline_part1 import compare_versions
+from src.who_broke_my_cicd_pipeline_part1 import compare_versions
 
 
 class TestCompareVersions(unittest.TestCase):
